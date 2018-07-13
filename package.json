@@ -1,0 +1,24 @@
+{
+  "name": "lil-cheetah",
+  "version": "0.1.0",
+  "description": "Lil Cheetah is a faster and more lightweight alternative to Express.js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsynchronousToddler/Lil-Cheetah.git"
+  },
+  "author": "AsynchronousToddler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AsynchronousToddler/Lil-Cheetah/issues"
+  },
+  "homepage": "https://github.com/AsynchronousToddler/Lil-Cheetah#readme",
+  "devDependencies": {
+    "eslint": "^5.1.0",
+    "eslint-plugin-prettier": "^2.6.2",
+    "prettier": "^1.13.7"
+  }
+}
